@@ -1,21 +1,20 @@
 # Site settings
-title: Iran University of Science and Technology
-course_name: Fundamentals of Computer Programming
-course_description: In this course, we aim to introduce students to programming.
-course_semester: "Fall 2020"
+title: Iran University of Science and Technology (IUST)
+course_name: Advanced Programming
+course_description: "Advanced Programming in C#: This class focuses on Object Oriented programming in C#"
+course_semester: "Spring 2020"
 description: |
     Instructor: Sauleh Eetemadi
 
 message: #Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/fc99" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/fc99" # the base hostname & protocol for your site
-syllabus: http://sauleh.github.io/fc99/syllabus/
-githubdir: 
+baseurl: "/ap98" # the subpath of your site, e.g. /blog/
+url: "http://sauleh.github.io/ap98" # the base hostname & protocol for your site
+githubdir:
 
 # Author/user information
 email: instructor-first-name@iust.ac.ir
 twitter_username: sauleh_e 
-github_username:  sauleh
+github_username:  saulehe
 authorurl: "http://sauleh.github.io"
 address: |
     School of Computer Engineering
@@ -42,10 +41,8 @@ collections:
     assignments:
         output: true
     announcements:
-        output: true
+        output: false
 
-sass:
-    style: :compressed        
 
 defaults:
   - scope:
@@ -53,7 +50,6 @@ defaults:
       type: "assignments"
     values:
       layout: "assignment"
-      comments: false
 
 
 
