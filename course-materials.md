@@ -3,49 +3,40 @@ layout: page
 title: Course Materials
 permalink: /course-materials/
 ---
-# General
-* **[Compiler Explorer](https://godbolt.org/)**: An online compiler for many languges. Specially useful for exploring new features of C++ language.
 
-# C#
-* **[List](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-sharp)** of free C# **ebooks** online.
-* **How to program in C#** - Beginner Course on [YouTube ](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
-* Learn C# **[interactive tutorial ](http://www.learncs.org/)**
-* Online **[playground](https://dotnetfiddle.net/)** for C#.
-* A [list](https://github.com/EbookFoundation/free-programming-books/blob/master/problem-sets-competitive-programming.md) of sites for competitive programming **problem sets**.
-* **Object Oriented Programming using C#** (read online [here](https://bookboon.com/premium/reader/object-oriented-programming-using-c-sharp))
-* **Data Structures and Algorithms** with Object-Oriented **Design Patterns** in C# (web archive [here](https://web.archive.org/web/20161207142802/http://www.brpreiss.com/books/opus6/))
-* Learn how to program: C# from [Epicodus Inc.](https://www.learnhowtoprogram.com/c)
+## C Programming Resources
+* **The C Programing Language** BRIAN W.KERNIGHAN & DENNIS M. RITCHIE <a href="../static_files/materials/The_C Programing_Language.pdf">PDF  </a> <a href="../static_files/materials/C_Answer_Book.pdf">AnswersPDF</a>
+* **Understanding and Using C Pointers** O'Reilly Media <a href="../static_files/materials/Richard Reese-Understanding and Using C Pointers-O'Reilly Media (2013).pdf">PDF</a>
+* **Mastering Algorithms with C** O'Reilly Media <a href="../static_files/materials/Kyle Loudon-Mastering Algorithms with C, 3rd Edition  -O'Reilly Media (1999).pdf">PDF</a>
+* [Viewing memory in vscode](https://sourceware.org/gdb/current/onlinedocs/gdb/Memory.html). Use -exec with before the gdb commands.
+* [C FAQ](http://c-faq.com/index.html)
+* [C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 
-### C# coding standards
-+ [Link](https://www.dofactory.com/reference/csharp-coding-standards)
-+ [Link](https://github.com/thangchung/clean-code-dotnet)
+## Python Programming Resources
+* **Learning Python** O'Reilly Media <a href="../static_files/materials/Mark Lutz-Learning Python-O'Reilly (2009).pdf">PDF</a>
+* **Learning Python** Packt Publishing Limit <a href="../static_files/materials/Learning Python.pdf">PDF</a>  
+* **Dive-Into-Python3**<a href="../static_files/materials/dive-into-python3.pdf">PDF</a>
+* **ThinkPython** Allen Downey-Green Tea Press <a href="../static_files/materials/thinkpython2.pdf">PDF</a>
+* **Python Online Course** Pluralsight (English) <a href="https://p30download.com/fa/entry/49434/">Here</a>
+* **Python Online Course** Jadi Mirmirani(Persian) <a href="https://gotoclass.ir/courses/آموزش-پایتون/">Here</a>
+* Python Challenges from [HackerRank](https://www.hackerrank.com/domains/python)
+* Vance Morrison's Python Intro [Course Notes](https://onedrive.live.com/view.aspx?resid=D068505F1C71AB61!3159&app=OneNote&authkey=!AKxcqGnaYlWNqts) [Download](../static_files/materials/VanceMorrisonNotes.zip)
+* Interactive Python [Book](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
+* Python [Turtle Graphics](https://runestone.academy/runestone/books/published/thinkcspy/PythonTurtle/toctree.html)
+* Recursion Turtle [Demo](https://runestone.academy/runestone/books/published/thinkcspy/IntroRecursion/SierpinskiTriangle.html) 
 
-### WPF
-+ [You Tube](https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M)
-+ [riptutorial.com](https://riptutorial.com/wpf)
-+ [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/framework/wpf/getting-started/walkthrough-my-first-wpf-desktop-application)
-+ [tutorialspoint.com](https://www.tutorialspoint.com/wpf/)
-+ [wpftutorial.net](https://wpftutorial.net/WPFIntroduction.html)
+## Azure DevOps
+* **Effective_DevOps** <a href="../static_files/materials/Effective_DevOps.pdf">PDF</a>
 
-# Git
+## Git
+* **Oriely Git Book** [pdf](../static_files/OriellyGIT.pdf)
+* **Git Community Book** [pdf](../static_files/GitCommunityBook.pdf)
+* **Pro Git Book** [link](https://git-scm.com/book/en/v2)
+* **Git Tower** [link](https://www.git-tower.com/learn/)
+* **Ry’s Git Tutorial** [epub](../static_files/RyGitTutorial.epub)
+* **Visualizing Git** [link](http://git-school.github.io/visualizing-git/)
+* **Git Introduction Online Course** Jadi Mirmirani(Persian) <a href="https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git">Here</a> 
 
-### Visualizing Git
-+ [git-school.github.io](https://git-school.github.io/visualizing-git/)
-+ [onlywei.github.io](https://onlywei.github.io/explain-git-with-d3/)
 
-### Learn Git interactively
-+ [learngitbranching.js.org/](https://learngitbranching.js.org/)
-
-### Find the right commands you need 
-+ [Git Command Explorer](https://gitexplorer.com)
-
-### Video and tutorials
-
-#### Persian
-+ [Managed distributed edition using Git](https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git)
-
-#### English
-+ [The Ultimate GIT 5-day Challenge](https://www.udemy.com/the-ultimate-git-5-day-challenge/)
-+ [Command Line Essentials: Git Bash for Windows](https://www.udemy.com/git-bash/)
-+ [(IUST FTP) Lynda Dreamweaver Working with Git Version Control](ftp://softbank.iust.ac.ir/trainings/Lynda_/Lynda.Dreamweaver.Working.with.Git.Version.Control-XQZT/)
-+ [(IUST FTP) Lynda Source Code Control in NET with Git Using SourceTree](ftp://softbank.iust.ac.ir/trainings/Lynda_/Lynda.Source.Code.Control.in.NET.with.Git.Using.SourceTree-XQZT/)
+## Other Resources
+* **Number Bases Introduction** <a href="https://www.computerhope.com/jargon/b/binary.htm">English </a> <a href="http://www.khuisf.ac.ir/prof/images/Uploaded_files/Bases%20in%20numeral%20system[6833271].PDF"> Persian</a> 

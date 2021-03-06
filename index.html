@@ -1,12 +1,17 @@
 ---
 layout: default
+comments: true
 ---
 
 <div class="home">
 
     <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
 
-    {% include announcements.html %}
+    <div class="announcement-box" style="margin-top:30px">
+        <h2>Announcements</h2>
+        {% include announcements.html %}
+    </div>
+
     <br />
 
     <h2>Course Description</h2>
@@ -45,21 +50,22 @@ layout: default
         </div>
     </div>
 
-<div id="disqus_thread"></div>
-    <script>
-        var disqus_config = function () {
-            this.page.url = "http://sauleh.github.io/ap97";
-            this.page.identifier = "main"; 
+    {% comment %} {% if page.comments %} 
+        <div id="disqus_thread"></div>
+        <script>
+            var disqus_config = function () {
+                this.page.url = "http://sauleh.github.io/ds98";  
+                this.page.identifier = "main";
             };
 
-        (function() { 
-        var d = document, s = d.createElement('script');
-        s.src = 'https://ap97.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-    </noscript>
-
+            (function() { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = 'https://ds98.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+        </noscript>
+    {% endif %} {% endcomment %}
 </div>
