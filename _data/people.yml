@@ -1,49 +1,59 @@
 instructor:
-    name: Sauleh Eetemadi
-    profile_pic: /_images/profile-photos/sauleh-eetemadi.jpg
+  name: Sauleh Eetemadi
+  profile_pic: /_images/eetemadi.jpg
 
 teaching_assistants:
-  - name: Omid Mirzajani
-    profile_pic: /_images/mirzajani.jpg
 
-  - name: Mohammad M. Abdollahpour
+  - name: Ali Rahnama Alamdari 
+    profile_pic: /_images/ali.jpg
+
+  - name: Amirhossein Samavat
+    profile_pic: /_images/amir.png    
+    
+  - name: MohammadMahdi Javid
+    profile_pic: /_images/javid.png
+
+  - name: Babak Behkamkia  
+    profile_pic: /_images/babak.png
+
+  - name: Mohammadjavad Mehditabar
+    profile_pic : /_images/javad.png  
+
+  - name: Shahrzad Azari
+    profile_pic: /_images/azari.png    
+
+  - name: Sahar Mehrabi
+    profile_pic: /_images/mehrabi.png
+
+  - name: Pariya Fesahat
+    profile_pic: /_images/fesahat.png
+
+  - name: Sara Kodeiri
+    profile_pic: /_images/sara-kodeiri.jpg
+  
+  - name: Masoud Golestaneh
+    profile_pic: /_images/masoud.png
+
+  - name: Bayan Divaniazar
     profile_pic: /_images/avatar.png
 
-  - name: Shaghayegh Mobasher
+  - name: Bavan Divaniazar
     profile_pic: /_images/avatar.png
 
-  - name: Ghazal ZamaniNejad
-    profile_pic: /_images/zamani.jpg
+  - name: Yasamin Madani
+    profile_pic: /_images/madani.png
 
-  - name: Mostafa Rostamkhani
-    profile_pic: /_images/rostamkhani.jpg
+  - name: Fatemeh Jalalvand
+    profile_pic: /_images/avatar.png
+  
+  - name: Sahand Nazarzadeh
+    profile_pic: /_images/avatar.png
 
-  - name: Negar Zeynolabedin
-    profile_pic: /_images/zeynolabedin.jpg
+  - name: Armin Gholampour
+    profile_pic: /_images/avatar.png
 
-  - name: Shorab Namazi
-    profile_pic: /_images/namazi.jpg
+  - name: Banafsheh Gholinejad
+    profile_pic: /_images/avatar.png
 
-  - name: Hadi Sheikhi
-    profile_pic: /_images/sheikhi.jpg
-
-  - name: Zahra Hosseini
-    profile_pic: /_images/hosseini.jpg
-
-  - name: Armin Gholampoor
-    profile_pic: /_images/gholampoor.png
-
-  # - name: <a href="https://github.com/miladjobs/">Milad Esfandyari</a>
-  #   profile_pic: /_images/profile-photos/milad-esfandiarifar.jpg
-
-  # - name: Sara Kodeiri
-  #   profile_pic: /_images/profile-photos/sara-kodeyri.jpg
-
-  # - name: AliReza Moradi
-  #   profile_pic: /_images/profile-photos/alireza-moradi.jpg
-
-  # - name: Pooya Kabiri
-  #   profile_pic: /_images/avatar.png
-
-  # - name: Mohammad Abdollahpour
-  #   profile_pic: /_images/avatar.png
+  - name: Zahra Amiri
+    profile_pic: /_images/amiri.png
